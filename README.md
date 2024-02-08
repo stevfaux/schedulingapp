@@ -14,6 +14,7 @@ This is my Scheduling Application Console Demo which handles the following requi
 For the time format it is on PHT . Please follow this example format: yyyy-MM-dd hh:mm:ss AM/PM
 
 To compile the java files:
-1. Go to the schedulingapp directory(cd schedulingapp)
-2. Type in the console "javac *.java" then hit "Enter".
-3. Then type "java Schedulingapp" to run the console demo.
+1.Clone the repository to local
+2. Go to the schedulingapp directory(cd schedulingapp)
+3. Type in the console "javac *.java" then hit "Enter".
+4. Then type "java Schedulingapp" to run the console demo.
